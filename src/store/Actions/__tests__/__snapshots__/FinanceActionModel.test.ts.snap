@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FinanceActionModel constructor init valid model 1`] = `
+FinanceActionModel {
+  "id": 7,
+  "store": FinanceActionsStore {
+    "rootStore": RootStore {
+      "financeActionsStore": FinanceActionsStore {
+        "rootStore": [Circular],
+      },
+    },
+  },
+}
+`;

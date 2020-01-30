@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InitColumnsHandler constructor init columns handler with valid object 1`] = `
+InitColumnsHandler {
+  "columnKeys": Array [
+    "col1",
+    "col2",
+    "col3",
+  ],
+  "handle": [Function],
+  "makeColumn": [Function],
+  "nextHandler": null,
+  "setNext": [Function],
+  "transform": [Function],
+}
+`;

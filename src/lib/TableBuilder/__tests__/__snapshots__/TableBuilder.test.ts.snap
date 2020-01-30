@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TableBuilder constructor init table builder with valid object 1`] = `
+TableBuilder {
+  "columnKeys": Array [],
+  "footerRow": null,
+  "getTable": [Function],
+  "models": Array [],
+  "modelsToRowsConverter": null,
+  "reset": [Function],
+  "setColumnKeys": [Function],
+  "setFooter": [Function],
+  "setModels": [Function],
+  "setModelsToRowsConverter": [Function],
+  "table": Table {
+    "columns": null,
+    "footerRow": null,
+    "rows": Array [],
+  },
+}
+`;

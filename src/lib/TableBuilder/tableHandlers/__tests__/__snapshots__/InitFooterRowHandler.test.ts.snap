@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InitFooterRowHandler constructor init footer row handler with valid object 1`] = `
+InitFooterRowHandler {
+  "footerRow": Object {
+    "col1": "29",
+    "col2": "69",
+    "col3": "",
+  },
+  "handle": [Function],
+  "nextHandler": null,
+  "setNext": [Function],
+  "transform": [Function],
+}
+`;

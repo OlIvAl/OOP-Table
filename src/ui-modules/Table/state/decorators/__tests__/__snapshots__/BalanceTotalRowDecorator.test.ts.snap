@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BalanceTotalRowDecorator constructor init valid object 1`] = `
+BalanceTotalRowDecorator {
+  "action_state": "",
+  "created_at": "",
+  "currency": "rub",
+  "description": "",
+  "source": "",
+  "updated_at": "",
+  "wrappee": Object {
+    "price": 100,
+    "profit_diff": 1000,
+    "total_profit": 0,
+  },
+}
+`;

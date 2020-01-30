@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InitRowsHandler constructor init rows handler with valid object 1`] = `
+InitRowsHandler {
+  "handle": [Function],
+  "makeRow": [Function],
+  "models": Array [
+    Object {
+      "value1": 68,
+      "value2": "Handcrafted",
+      "value3": Object {
+        "subValue1": 75,
+        "subValue2": "programming",
+      },
+    },
+    Object {
+      "value1": 79,
+      "value2": "black",
+      "value3": Object {
+        "subValue1": 6,
+        "subValue2": "Configuration",
+      },
+    },
+    Object {
+      "value1": 60,
+      "value2": "Handmade Metal Fish",
+      "value3": Object {
+        "subValue1": 90,
+        "subValue2": "Ville",
+      },
+    },
+  ],
+  "modelsToRowsConverter": [Function],
+  "nextHandler": null,
+  "setNext": [Function],
+  "transform": [Function],
+}
+`;

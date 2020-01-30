@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AbstractStore constructor init valid store 1`] = `
+TestStore {
+  "models": Array [
+    TestModel {
+      "store": [Circular],
+    },
+    TestModel {
+      "store": [Circular],
+    },
+    TestModel {
+      "store": [Circular],
+    },
+  ],
+  "rootStore": RootStore {
+    "financeActionsStore": FinanceActionsStore {
+      "rootStore": [Circular],
+    },
+  },
+}
+`;
